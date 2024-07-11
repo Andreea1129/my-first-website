@@ -103,7 +103,7 @@ function App()  {
         </a>
       </div>
       <h1>Andreea</h1>
-
+      <h1>Catarina</h1>
       <h2>Cats</h2>
       <div style={{ display: 'flex', flexWrap: 'wrap' }}>
       {catImages.length > 0 && catImages.map((url, index) => (
